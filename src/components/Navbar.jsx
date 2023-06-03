@@ -13,6 +13,7 @@ function Navbar() {
         focus-within:border-[#8a4af3] transition-all'>
             <input className='input outline-none' type='text'/>
             <SearchIcon className='' style={{fontSize:'16px'}}/>
+            <h1>hiii</h1>
         </div>
        </div>
        {/* logo */}
@@ -31,6 +32,7 @@ function Navbar() {
         </div>
        </div>
        
+
 
       </div>
     </div>
