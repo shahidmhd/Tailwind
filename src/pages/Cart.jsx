@@ -23,7 +23,7 @@ function Cart() {
             Continue Shopping
           </button>
           <div className="flex underline text-lg hover:cursor-pointer mobile:m-5">
-            <p>Items in your Cart: 3</p>
+            <p>Items in your Cart: 4</p>
             <p className="ml-5">Whishlist Items: 0</p>
           </div>
           <button className="btn mt-0">Checkout Now</button>
